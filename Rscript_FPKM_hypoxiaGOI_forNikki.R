@@ -3,8 +3,6 @@
 #load dependencies
 library("ggplot2")
 
-#change cnt to fpkms for clarity in script
-
 #load input files
 fpkm.pre<-read.csv("./input_files/hawaii_fpkm_matrix_withfunctions_RA.csv", sep = ",", header = TRUE, row.names = 1)
 map.pre<-read.csv("./input_files/metadata_RA.csv", sep = ",")
