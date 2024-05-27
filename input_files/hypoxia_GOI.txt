@@ -5,7 +5,7 @@ nbisL1-transcript-29787	ODH	y
 nbisL1-transcript-29868	ODH	y
 nbisL1-transcript-20702	ODH	y
 nbisL1-transcript-20698	ODH	y
-nbisL1-transcript-20742	ODH	y
+nbisL1-transcript-20742	ODH2	y
 nbisL1-transcript-17107	HSP90B1	z
 nbisL1-transcript-31503	LDHB	z
 nbisL1-transcript-25816	PDK2	z
