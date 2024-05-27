@@ -1,0 +1,56 @@
+Tank,Temperature,Treatment,Group,SampleID,FileName,Sample
+1,30,mangrove_reef,30_mangrove_reef,11,1mangrove-reef11_22J2HMLT3_TTCTCGTGCA-ATACACAGAG,X1mangrove-reef11
+1,30,mangrove_reef,30_mangrove_reef,12,1mangrove-reef12_22J2HMLT3_CACCTAGCAC-TGCTGGACAT,X1mangrove-reef12
+1,30,mangrove_reef,30_mangrove_reef,14,1mangrove-reef14_22J2HMLT3_TTAGGCTCAA-TCGAATGGAA,X1mangrove-reef14
+1,30,mangrove_reef,30_mangrove_reef,15,1mangrove-reef15_22J2HMLT3_AGCTGATGTC-TCATGTCCTG,X1mangrove-reef15
+1,30,reef_reef,30_reef_reef,21,1reef-reef21_22J2HMLT3_TCGACGCTAG-CCTCTTCGAA,X1reef-reef21
+1,30,reef_reef,30_reef_reef,22,1reef-reef22_22J2HMLT3_GCAACCAGTC-CACCGAGGAA,X1reef-reef22
+1,30,reef_reef,30_reef_reef,23,1reef-reef23_22J2HMLT3_ACTAATCTCC-CACTTAATCT,X1reef-reef23
+1,30,reef_reef,30_reef_reef,24,1reef-reef24_22J2HMLT3_CATTCACGCT-GTTGTACTCA,X1reef-reef24
+1,30,reef_reef,30_reef_reef,25,1reef-reef25_22J2HMLT3_CTGAATTAGT-AATTCGATCG,X1reef-reef25
+1,30,wild_mangrove,30_wild mangrove,1,1wildmangrove1_22J2HMLT3_ACATGAGTGA-CCGCTTAGCT,X1wildmangrove1
+1,30,wild_mangrove,30_wild mangrove,2,1wildmangrove2_22J2HMLT3_CGAACGCACC-ATGACAGAAC,X1wildmangrove2
+1,30,wild_mangrove,30_wild mangrove,3,1wildmangrove3_22J2HMLT3_TGTGTTAGTA-TACTCTGTTA,X1wildmangrove3
+1,30,wild_mangrove,30_wild mangrove,4,1wildmangrove4_22J2HMLT3_CGGTCGGCAT-CTAGGCAAGG,X1wildmangrove4
+1,30,wild_mangrove,30_wild mangrove,5,1wildmangrove5_22J2HMLT3_TCTTACGCCG-ATTCATTGCA,X1wildmangrove5
+1,30,wild_reef,30_wild_reef,1,1wildreef1_22J2HMLT3_TAGGTATGTT-CGAGACCAAG,X1wildreef1
+1,30,wild_reef,30_wild_reef,2,1wildreef2_22J2HMLT3_CACCTCTCTT-CTCGACTCCT,X1wildreef2
+1,30,wild_reef,30_wild_reef,4,1wildreef4_22J2HMLT3_ATACATCACA-TCTCCATTGA,X1wildreef4
+1,30,wild_reef,30_wild_reef,5,1wildreef5_22J2HMLT3_GCTAGGAAGT-TCTCGGACGA,X1wildreef5
+4,33,mangrove_reef,33_mangrove_reef,11,4mangrove-reef11_22J2HMLT3_ATTCGGTACA-AGTCCGAGGA,X4mangrove-reef11
+4,33,mangrove_reef,33_mangrove_reef,12,4mangrove-reef12_22J2HMLT3_GAGCTTGCCG-AGGTTGCAGG,X4mangrove-reef12
+4,33,mangrove_reef,33_mangrove_reef,13,4mangrove-reef13_22J2HMLT3_TAAGGAGGAA-TTCCGACATT,X4mangrove-reef13
+4,33,mangrove_reef,33_mangrove_reef,14,4mangrove-reef14_22J2HMLT3_GGCACTAAGG-TCAGGTCAAC,X4mangrove-reef14
+4,33,mangrove_reef,33_mangrove_reef,15,4mangrove-reef15_22J2HMLT3_GAGCGACGAT-CGTATAATCA,X4mangrove-reef15
+4,33,reef_reef,33_reef_reef,22,4reef-reef22_22J2HMLT3_ATTGAGGTCC-CGGATTATAT,X4reef-reef22
+4,33,reef_reef,33_reef_reef,23,4reef-reef23_22J2HMLT3_TAGTGGCTTG-AGTTACTTGG,X4reef-reef23
+4,33,reef_reef,33_reef_reef,24,4reef-reef24_22J2HMLT3_TTCACTCACT-TATCATGAGA,X4reef-reef24
+4,33,reef_reef,33_reef_reef,25,4reef-reef25_22J2HMLT3_GGTCCGCTTC-CTCACACAAG,X4reef-reef25
+4,33,wild_mangrove,33_wild mangrove,1,4wildmangrove1_22J2HMLT3_ATGATTCCGG-CTCTGACGTG,X4wildmangrove1
+4,33,wild_mangrove,33_wild mangrove,2,4wildmangrove2_22J2HMLT3_TTCAAGTATG-GATGGTATCG,X4wildmangrove2
+4,33,wild_mangrove,33_wild mangrove,3,4wildmangrove3_22J2HMLT3_CACGGCTAGT-GGTGTACAAG,X4wildmangrove3
+4,33,wild_mangrove,33_wild mangrove,4,4wildmangrove4_22J2HMLT3_TTGAATCCAA-GTCACGGTGT,X4wildmangrove4
+4,33,wild_mangrove,33_wild mangrove,5,4wildmangrove5_22J2HMLT3_TGTAAGGTGG-AAGGCCTTGG,X4wildmangrove5
+4,33,wild_reef,33_wild_reef,1,4wildreef1_22J2HMLT3_CCGCTCCGTT-TACGGCGAAG,X4wildreef1
+4,33,wild_reef,33_wild_reef,2,4wildreef2_22J2HMLT3_AGGAGTCGAG-TTAGGCTTAC,X4wildreef2
+4,33,wild_reef,33_wild_reef,3,4wildreef3_22J2HMLT3_AAGATACACG-TGTGCTAACA,X4wildreef3
+4,33,wild_reef,33_wild_reef,4,4wildreef4_22J2HMLT3_AGCTAGCTTC-TAATACGGAG,X4wildreef4
+4,33,wild_reef,33_wild_reef,5,4wildreef5_22J2HMLT3_TCGTGCATTC-GCGTTGGTAT,X4wildreef5
+6,36,mangrove_reef,36_mangrove_reef,11,6mangrove-reef11_22J2HMLT3_CTCGTAGGCA-TCATCCTCTT,X6mangrove-reef11
+6,36,mangrove_reef,36_mangrove_reef,12,6mangrove-reef12_22J2HMLT3_AAGTTCTAGT-GGTAAGATAA,X6mangrove-reef12
+6,36,mangrove_reef,36_mangrove_reef,13,6mangrove-reef13_22J2HMLT3_ATATCTGCTT-TAGACAATCT,X6mangrove-reef13
+6,36,mangrove_reef,36_mangrove_reef,14,6mangrove-reef14_22J2HMLT3_TGGATCTGGC-CAATGCTGAA,X6mangrove-reef14
+6,36,mangrove_reef,36_mangrove_reef,15,6mangrove-reef15_22J2HMLT3_CCAAGAGGTG-AACGAGCCAG,X6mangrove-reef15
+6,36,reef_reef,36_reef_reef,22,6reef-reef22_22J2HMLT3_AGATAGTAGC-GGCACGCCAT,X6reef-reef22
+6,36,reef_reef,36_reef_reef,23,6reef-reef23_22J2HMLT3_ATTAGAAGAC-GCAGGCTGGA,X6reef-reef23
+6,36,reef_reef,36_reef_reef,24,6reef-reef24_22J2HMLT3_GCTCGCACAT-ATGGCTTAAT,X6reef-reef24
+6,36,reef_reef,36_reef_reef,25,6reef-reef25_22J2HMLT3_AATATTGCCA-CGGTGACACC,X6reef-reef25
+6,36,wild_mangrove,36_wild mangrove,1,6wildmangrove1_22J2HMLT3_CAATCCTTGT-CGAAGACGCA,X6wildmangrove1
+6,36,wild_mangrove,36_wild mangrove,2,6wildmangrove2_22J2HMLT3_CAACTGCAAC-TGAACGCAAC,X6wildmangrove2
+6,36,wild_mangrove,36_wild mangrove,3,6wildmangrove3_22J2HMLT3_TTAAGACAAG-GGCTTAATTG,X6wildmangrove3
+6,36,wild_mangrove,36_wild mangrove,4,6wildmangrove4_22J2HMLT3_TTAATAGCAC-ACCACGTCTG,X6wildmangrove4
+6,36,wild_mangrove,36_wild mangrove,5,6wildmangrove5_22J2HMLT3_CAACGACCTA-GCGACTCGAT,X6wildmangrove5
+6,36,wild_reef,36_wild_reef,1,6wildreef1_22J2HMLT3_GGAGAGACTC-TTGAAGCAGA,X6wildreef1
+6,36,wild_reef,36_wild_reef,2,6wildreef2_22J2HMLT3_TGCAATGAAT-CCAGAAGTAA,X6wildreef2
+6,36,wild_reef,36_wild_reef,3,6wildreef3_22J2HMLT3_GAAGACTAGA-ACTAGAACTT,X6wildreef3
+6,36,wild_reef,36_wild_reef,4,6wildreef4_22J2HMLT3_CTATGAAGGA-CTTATACCTG,X6wildreef4

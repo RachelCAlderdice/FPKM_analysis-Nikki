@@ -1,0 +1,14 @@
+GeneID	anno	info
+nbisL1-transcript-18312	HIF1A	z
+nbisL1-transcript-18302	EGLN1	z
+nbisL1-transcript-29787	ODH	y
+nbisL1-transcript-29868	ODH	y
+nbisL1-transcript-20702	ODH	y
+nbisL1-transcript-20698	ODH	y
+nbisL1-transcript-20742	ODH	y
+nbisL1-transcript-17107	HSP90B1	z
+nbisL1-transcript-31503	LDHB	z
+nbisL1-transcript-25816	PDK2	z
+nbisL1-transcript-24574	HMOX1	z
+nbisL1-transcript-29473	PCK1	z
+nbisL1-transcript-29479	PCK1	z
