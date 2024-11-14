@@ -23,8 +23,6 @@ map.B=subset(map, map$Temperature == "30" & map$Treatment == "reef_reef")
 map.C=subset(map, map$Temperature == "30" & map$Treatment == "wild_mangrove")
 map.D=subset(map, map$Temperature == "30" & map$Treatment == "wild_reef")
 
-#provide only genes used!!!!
-
 #select genes of interest
 gene=read.delim("./input_files/hypoxia_GOI.txt", header=TRUE)
 genes=subset(gene, gene$anno == "HIF1A") #change gene name accordingly
